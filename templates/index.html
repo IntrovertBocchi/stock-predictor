@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <!-- Defining metadata and title of the web page -->
+        <title>Stock Predictor</title>
+
+    </head>
+
+    <body>
+
+        <!-- Main heading for the page -->
+        <h1>Stock Price Prediction</h1>
+
+        <!-- Form to take user input for stock prediction -->
+        <form method="POST">
+
+            <!-- Input field for stock ticker symbol -->
+            <input type="text" name="ticker" placeholder="Enter Stock Symbol" required>
+            
+            <!-- Submit button to send input -->
+            <button type="submit">Predict</button>
+
+        </form>
+
+        <!-- Check if prediction exists -->
+        {% if prediction %}
+
+            <!-- Display predicted stock price rounded to two decimals -->
+            <h2>Predicted Next Closing Price: ${{ prediction|round(2) }}</h2>
+
+        {% endif %}
+        
+    </body>
+</html>

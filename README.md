@@ -79,7 +79,7 @@ http://127.0.0.1:5000/
 ✅ Multi-Stock support: Allows user to compare different stock symbols and choose stocks. <br>
 ✅ Graphs and charts: Intergrate matplotlib and Plotly.js to vvisualize stock trends. <br>
 ✅ JavaScript & SCSS UI Enhancements – Improve user experience with dynamic updates, animations & a modern design <br>
-✅ ~~Temporary CSV storage: Manage stock data more efficiently.~~ Already included in the update :D <br> 
+✅ ~~Temporary CSV storage: Manage stock data more efficiently.~~ (Already included in the update :D - Bocchi) <br> 
 
 # 🤝 Contributing
 

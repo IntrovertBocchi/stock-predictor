@@ -77,7 +77,7 @@ http://127.0.0.1:5000/
 ## 🔮 Planned Improvements
 
 🟢 **Completed Improvements**<br>
-✅ ~~Temporary CSV storage: Manage stock data more efficiently.~~ (Already included in the update :D - _IntrovertBocchi_) <br> 
+✅ Temporary CSV storage: Manage stock data more efficiently. (Already included in the update :D - _Bocchi_) <br> 
 
 🟡 **In Progress:**<br> 
 🚧 Multi-Stock support: Allows user to compare different stock symbols and choose stocks. <br>

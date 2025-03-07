@@ -85,7 +85,7 @@ http://127.0.0.1:5000/
 
 🔴 **Planned:**<br>
 🔜 JavaScript & SCSS UI Enhancements: Improve user experience with dynamic updates, animations & a modern design. <br>
-⏳ Hyper analysis mode: Training algorithm to study trends and increase accuracy of predictions.  
+⏳ Hyper analysis mode: Training algorithm to study trends and increase accuracy of predictions. <br>
 
 # 🤝 Contributing
 

@@ -76,14 +76,14 @@ http://127.0.0.1:5000/
 
 ## 🔮 Planned Improvements
 
-🟢 **Completed Improvements**
+🟢 **Completed Improvements**<br>
 ✅ ~~Temporary CSV storage: Manage stock data more efficiently.~~ (Already included in the update :D - _IntrovertBocchi_) <br> 
 
-🟡 **In Progress:** 
+🟡 **In Progress:**<br> 
 🚧 Multi-Stock support: Allows user to compare different stock symbols and choose stocks. <br>
 🔄 Graphs and charts: Intergrate matplotlib and Plotly.js to visualize stock trends. <br>
 
-🔴 **Planned:**
+🔴 **Planned:**<br>
 🔜 JavaScript & SCSS UI Enhancements: Improve user experience with dynamic updates, animations & a modern design 
 ⏳ Hyper analysis mode: Training algorithm to study trends and increase accuracy of predictions  
 

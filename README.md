@@ -2,10 +2,13 @@
 
 # 🚀 Overview  
 
-This project is a **machine-learning based stock trend predictor** that utilizes a **Random Forest regression** to forecast future stock prices based on historical data. The model is trained on real stock market data and is accessible using a **Flask Web App**, allowing users to input stock symbols and receive a predicted closing price.
+This project is a **machine-learning-based stock trend predictor** that utilizes a **Random Forest regression model** to forecast future stock prices based on historical data. It fetches real-time stock market data from **Yahoo Finance** and presents predictions through a **Flask Web App**.  
 
 # ✨ Features
 
+✅ **Search for company stocks** instead of manually entering stock symbols (e.g., "Apple" instead of "AAPL")  
+✅ **Company names now display country information** if available  
+✅ **Efficient temporary CSV storage**—data won’t take up unnecessary space on your PC 
 ✅ Predicts stock closing prices using machine learning (Random Forest) <br>
 ✅ Fetches real-time stock data from Yahoo Finance (yfinance) <br>
 ✅ Simple **Flask web interface** for user input <br>

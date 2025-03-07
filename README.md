@@ -84,8 +84,8 @@ http://127.0.0.1:5000/
 🔄 Graphs and charts: Intergrate matplotlib and Plotly.js to visualize stock trends. <br>
 
 🔴 **Planned:**<br>
-🔜 JavaScript & SCSS UI Enhancements: Improve user experience with dynamic updates, animations & a modern design 
-⏳ Hyper analysis mode: Training algorithm to study trends and increase accuracy of predictions  
+🔜 JavaScript & SCSS UI Enhancements: Improve user experience with dynamic updates, animations & a modern design. <br>
+⏳ Hyper analysis mode: Training algorithm to study trends and increase accuracy of predictions.  
 
 # 🤝 Contributing
 

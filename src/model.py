@@ -13,24 +13,13 @@ from sklearn.ensemble import RandomForestRegressor
 # Metric to evaluate model performance
 from sklearn.metrics import mean_absolute_error
 
+from src.data_loader import get_stock_data
+
 # Function to load stock data and prepare it for training
 def load_data(ticker):
 
     # Read stock data from CSV file
-    df = pd.read_csv(
-
-        # File path based on ticker symbol
-        f"data/{ticker}.csv", 
-
-        # First column is the index (date)
-        index_col=0, 
-
-        # Convert index column to datetime format
-        parse_dates=True,
-
-        # Ensure correct date format
-        date_format="%Y-%m-%d"
-        )
+    df = get_stock_data(ticker)
 
     # Predict next day's closing price
     df["Future"] = df["Close"].shift(-1)  # Shifts the "Close" column up by one row

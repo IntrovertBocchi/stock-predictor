@@ -6,9 +6,9 @@ This project is a **machine-learning-based stock trend predictor** that utilizes
 
 # ✨ Features
 
-✅ **Search for company stocks** instead of manually entering stock symbols (e.g., "Apple" instead of "AAPL")  
-✅ **Company names now display country information** if available  
-✅ **Efficient temporary CSV storage**—data won’t take up unnecessary space on your PC 
+✅ **Search for company stocks** instead of manually entering stock symbols (e.g., "Apple" instead of "AAPL")  <br>
+✅ **Company names now display country information** if available <br> 
+✅ **Efficient temporary CSV storage**—data won’t take up unnecessary space on your PC <br> 
 ✅ Predicts stock closing prices using machine learning (Random Forest) <br>
 ✅ Fetches real-time stock data from Yahoo Finance (yfinance) <br>
 ✅ Simple **Flask web interface** for user input <br>
